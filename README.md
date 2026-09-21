@@ -1,4 +1,4 @@
-readme_text = """
+
 Video Game Sales Analysis
 
 This project analyzes video game sales data using Python to explore sales trends, publishers, genres, and other game information.
